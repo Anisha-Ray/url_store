@@ -1,0 +1,24 @@
+body {
+    width: 200px;
+    padding: 10px;
+  }
+  
+  input[type="email"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    color: blue;
+    width: 50%;
+  }
+  .alert{
+    width: 100%;
+    background: rgb(0,255,106);
+    padding:10px 20px;
+    border-radius:5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    
+  }
